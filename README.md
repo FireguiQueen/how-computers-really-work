@@ -1,2 +1,3 @@
-# How computers really work 
+# How computers really work
 
+[bookscover](./assets/bookscover.png)
