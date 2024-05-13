@@ -1,3 +1,3 @@
 # How computers really work
 
-[bookscover](./assets/bookscover.png)
+![bookscover](./assets/bookscover.png)
