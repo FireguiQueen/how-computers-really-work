@@ -10,7 +10,14 @@ services. He has worked on low-level software (the operating
 system) and on software far removed from the underlying
 hardware (such as web applications).
 
+## Who is this book for?
+This book is for anyone who wants to understand how computers work. You _don't need_ to have _any prior knowledge_ of the topics covered. On the other hand, _if you already have a background in programming or eletronics, this book can you help expand your knowledge in other areas_. 
+
+The book is written for the self-motivated learner, someone who is comfortable with basic math and science, and who is already familier with _using_ computers and smartphones, but who still has questions about __how they work__. 
+
 <br>
+
+______________________
 
 ## How to download its PDF
 Search on google (or whatever engine search you use). I'm not being rude, to be clear, my point is help you to develop one of the most important skills of a developer: __the ability to search__. 
