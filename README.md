@@ -1,6 +1,15 @@
 # How computers really work
 Notes and explications from the book "How computers really work", by Matthew Justice. 
 
+## About the author
+Matthew Justice is a software engineer. He spent 17 years at
+Microsoft where he took on various roles, including debugging
+the Windows kernel, developing automated fixes, and leading a
+team of engineers responsible for building diagnostic tools and
+services. He has worked on low-level software (the operating
+system) and on software far removed from the underlying
+hardware (such as web applications).
+
 <br>
 
 ## How to download its PDF
