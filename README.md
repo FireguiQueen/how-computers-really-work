@@ -22,6 +22,9 @@ ______________________
 ## How to download its PDF
 Search on google (or whatever engine search you use). I'm not being rude, to be clear, my point is help you to develop one of the most important skills of a developer: __the ability to search__. 
 
+## Where to buy it 
+
+
 ## Is it important to read this book? 
 Not this book in particular; but in my opinion, it's crucial to know __how computers work__, to be, at least, one step away from being a mediocre developer.
 
