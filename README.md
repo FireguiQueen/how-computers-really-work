@@ -1,4 +1,4 @@
-# How computers really work
+# Book: How computers really work
 Notes and explications from the book "How computers really work", by Matthew Justice. 
 
 ## About the author
