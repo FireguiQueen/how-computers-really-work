@@ -1,5 +1,5 @@
 # Book: How computers really work
-Notes and explications from the book "How computers really work", by Matthew Justice. 
+My notes and explications from the book "How computers really work", by Matthew Justice. 
 
 ## About the author
 "Matthew Justice is a software engineer. He spent 17 years at
