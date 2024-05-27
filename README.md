@@ -21,7 +21,7 @@ ______________________
 
 ## Where to buy it 
 In appreciation of the author, it's not a problem to say where you can find the book to buy. <br>
-[Amazon](https://www.amazon.com.br/Amps-Apps-How-Computers-Work/dp/1718500661) | [Nostarch](https://nostarch.com/how-computers-really-work) | [barnesandnoble](https://www.barnesandnoble.com/w/how-computers-really-work-matthew-justice/1137656586)
+- [Amazon](https://www.amazon.com.br/Amps-Apps-How-Computers-Work/dp/1718500661) | [Nostarch](https://nostarch.com/how-computers-really-work) | [barnesandnoble](https://www.barnesandnoble.com/w/how-computers-really-work-matthew-justice/1137656586)
 
 
 ## Where to download its PDF
