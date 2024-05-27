@@ -4,8 +4,8 @@ But in reality, any electronic device capable of carrying out a set of logical i
 With that in mind, we can list many types of computers around us: video-game consoles, smart-watches, smart televisions,
 smart air conditioners... 
 
-So even a microwave and a refrigerator can be a computer; however, it doesn't mean that every microwave/refrigerator 
-is a computer. For example, my old refrigerator wasn't a computer. When I needed to adjust its temperature, I 
+So even a refrigerator can be a computer; however, it doesn't mean that every refrigerator is a computer. 
+For example, my old refrigerator wasn't a computer. When I needed to adjust its temperature, I 
 just turned the fridge's knob, and the process behind this is actually very simple:  
 
 The knob manages a thermostat, and it has a sensor that reacts to changes in internal temperature, turning on/off the compressor (device used to produce "cold air").
