@@ -19,7 +19,7 @@ hardware (such as web applications).".
 
 ______________________
 
-## How to download its PDF
+## Where to download its PDF
 Search on google (or whatever engine search you use). I'm not being rude, to be clear, my point is help you to develop one of the most important skills of a developer: __the ability to search__. 
 > At the moment, I'm reading the PDF, but I'll surely buy it in the future to help and support the author.
 
