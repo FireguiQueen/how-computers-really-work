@@ -14,6 +14,7 @@ team of engineers responsible for building diagnostic tools and
 services. He has worked on low-level software (the operating
 system) and on software far removed from the underlying
 hardware (such as web applications).".
+
 <br>
 
 ______________________
@@ -26,7 +27,7 @@ In appreciation of the author, it's not a problem to say where you can find the 
 Search on google (or whatever engine search you use). As a developer, you must have one of the most important skills of a developer: __the ability to search__. 
 > At the moment, I'm reading the PDF, but I'll surely buy it in the future to help and support the author.
 
-#### Where to buy it
+### Where to buy it
 In appreciation of the author, it's not a problem to show you where you can find it to buy.  
 - [Amazon](https://www.amazon.com.br/Amps-Apps-How-Computers-Work/dp/1718500661) | [Nostarch](https://nostarch.com/how-computers-really-work) | [barnesandnoble](https://www.barnesandnoble.com/w/how-computers-really-work-matthew-justice/1137656586)
 
