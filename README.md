@@ -32,15 +32,15 @@ In appreciation of the author, it's not a problem to show you where you can find
 - [Amazon](https://www.amazon.com.br/Amps-Apps-How-Computers-Work/dp/1718500661) | [Nostarch](https://nostarch.com/how-computers-really-work) | [barnesandnoble](https://www.barnesandnoble.com/w/how-computers-really-work-matthew-justice/1137656586)
 
 
+## How important is to know how computers work underneath 
+When you use a hammer, it's not necessary to think hard about how and why it works. The tool is pretty simple: the long handle acts as a lever, amplifying the user's effort, while the mass of the hammerhead and the speed of the swing generate momentum. This momentum is then focused onto a small area, making the hammer effective for driving nails, breaking objects, or shaping materials.
 
-## Is it important to read this book? 
-Not this book in particular; but in my opinion, it's crucial to know __how computers work__, to be, at least, one step away from being a mediocre developer.
+Once we have tools that use electric processes to work, we are dealing with more complex tools. Understanding how they work is harder and more laborious. Many "developers" are just emerging these days, but only a few of them are interested in knowing how their tools work; they are merely using them.
 
-It __doesn't matter__ which segment you're following in the computer science world (backend, frontend, devops...), you must know how and why our computers work.
+It's crucial to know how computers work to be at least one step away from being a mediocre developer. It doesn't matter which segment you're following in the computer science world (backend, frontend, DevOps, etc.); you should know how and why our computers work. To learn that, you'll need to learn physics and then electronics.
 
 <br>
 
 _________________________________________
-
 
 ![bookscover](./assets/bookscover.png)
