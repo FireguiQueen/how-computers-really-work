@@ -14,8 +14,8 @@ team of engineers responsible for building diagnostic tools and
 services. He has worked on low-level software (the operating
 system) and on software far removed from the underlying
 hardware (such as web applications).".
-
 <br>
+
 ______________________
 
 ## Where to buy it 
