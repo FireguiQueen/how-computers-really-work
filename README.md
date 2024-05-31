@@ -31,7 +31,7 @@ In appreciation of the author, it's not a problem to show you where you can find
 - [Amazon](https://www.amazon.com.br/Amps-Apps-How-Computers-Work/dp/1718500661) | [Nostarch](https://nostarch.com/how-computers-really-work) | [barnesandnoble](https://www.barnesandnoble.com/w/how-computers-really-work-matthew-justice/1137656586)
 
 
-## How important is to know how computers work underneath 
+## How important is it to know how computers work underneath 
 When you use a hammer, it's not necessary to think hard about how and why it works. The tool is pretty simple: the long handle acts as a lever, amplifying the user's effort, while the mass of the hammerhead and the speed of the swing generate momentum. This momentum is then focused onto a small area, making the hammer effective for driving nails, breaking objects, or shaping materials.
 
 Once we have tools that use electric processes to work, we are dealing with more complex tools. Understanding how they work is harder and more laborious. Many "developers" are just emerging these days, but only a few of them are interested in knowing how their tools work; they are merely using them.
