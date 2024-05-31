@@ -17,19 +17,13 @@ hardware (such as web applications).".
 
 <br>
 
+### Support the Author
+To show your appreciation for the author, you can purchase the book here:
+- [Amazon](https://www.amazon.com.br/Amps-Apps-How-Computers-Work/dp/1718500661) | [Nostarch](https://nostarch.com/how-computers-really-work) | [barnesandnoble](https://www.barnesandnoble.com/w/how-computers-really-work-matthew-justice/1137656586)
+
 ______________________
 
-## Where to buy it 
-In appreciation of the author, it's not a problem to say where you can find the book to buy. <br>
 
-
-## Where to download its PDF
-Search on google (or whatever engine search you use). As a developer, you must have one of the most important skills of a developer: __the ability to search__. 
-> At the moment, I'm reading the PDF, but I'll surely buy it in the future to help and support the author.
-
-### Where to buy it
-In appreciation of the author, it's not a problem to show you where you can find it to buy.  
-- [Amazon](https://www.amazon.com.br/Amps-Apps-How-Computers-Work/dp/1718500661) | [Nostarch](https://nostarch.com/how-computers-really-work) | [barnesandnoble](https://www.barnesandnoble.com/w/how-computers-really-work-matthew-justice/1137656586)
 
 
 ## How important is it to know how computers work underneath 
