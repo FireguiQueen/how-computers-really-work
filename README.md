@@ -15,16 +15,11 @@ services. He has worked on low-level software (the operating
 system) and on software far removed from the underlying
 hardware (such as web applications).".
 
-<br>
-
 ### Support the Author
 To show your appreciation for the author, you can purchase the book here:
 - [Amazon](https://www.amazon.com.br/Amps-Apps-How-Computers-Work/dp/1718500661) | [Nostarch](https://nostarch.com/how-computers-really-work) | [barnesandnoble](https://www.barnesandnoble.com/w/how-computers-really-work-matthew-justice/1137656586)
 
 ______________________
-
-
-
 
 ## How important is it to know how computers work underneath 
 When you use a hammer, it's not necessary to think hard about how and why it works. The tool is pretty simple: the long handle acts as a lever, amplifying the user's effort, while the mass of the hammerhead and the speed of the swing generate momentum. This momentum is then focused onto a small area, making the hammer effective for driving nails, breaking objects, or shaping materials.
