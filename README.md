@@ -12,7 +12,7 @@ the Windows kernel, developing automated fixes, and leading a
 team of engineers responsible for building diagnostic tools and
 services. He has worked on low-level software (the operating
 system) and on software far removed from the underlying
-hardware (such as web applications)." - (his own description in the book). 
+hardware (such as web applications).". This description is from his own book.
 
 ## Support the Author
 
