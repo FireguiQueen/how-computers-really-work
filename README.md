@@ -3,7 +3,6 @@ My notes and explications from the book "How computers really work", by Matthew 
 
 ## Who is this book for?
 This book is for anyone who wants to understand how computers work. You _don't need_ to have _any prior knowledge_ of the topics covered. On the other hand, if you already have a background in programming or eletronics, this book can you help expand your knowledge in other areas. 
-
 The book is written for the __self-motivated learner__, someone who is comfortable with basic math and science, and who is already familier with _using_ computers and smartphones, but who still has questions about __how they work__. 
 
 ## About the author
@@ -13,11 +12,15 @@ the Windows kernel, developing automated fixes, and leading a
 team of engineers responsible for building diagnostic tools and
 services. He has worked on low-level software (the operating
 system) and on software far removed from the underlying
-hardware (such as web applications).".
+hardware (such as web applications)." - (his own description in the book). 
 
-### Support the Author
+## Support the Author
+
+### Where to purchase 
 To show your appreciation for the author, you can purchase the book here:
 - [Amazon](https://www.amazon.com.br/Amps-Apps-How-Computers-Work/dp/1718500661) | [Nostarch](https://nostarch.com/how-computers-really-work) | [barnesandnoble](https://www.barnesandnoble.com/w/how-computers-really-work-matthew-justice/1137656586)
+
+### 
 
 ______________________
 
