@@ -20,7 +20,8 @@ hardware (such as web applications)." - (his own description in the book).
 To show your appreciation for the author, you can purchase the book here:
 - [Amazon](https://www.amazon.com.br/Amps-Apps-How-Computers-Work/dp/1718500661) | [Nostarch](https://nostarch.com/how-computers-really-work) | [barnesandnoble](https://www.barnesandnoble.com/w/how-computers-really-work-matthew-justice/1137656586)
 
-### 
+### Where to find him
+- [Github](https://github.com/matthewjustice) | [Linkedin](https://www.linkedin.com/in/matthew-justice/) 
 
 ______________________
 
