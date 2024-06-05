@@ -15,7 +15,7 @@ The knob manages a thermostat, and it has a sensor that reacts to changes in int
 When the compressor is on, it produces 'cold air', when it's off, the production of "cold air" stops. Thinking in a knob that goes from 1 to 4; when I set '2' on the knob, I'm actually setting a range, and if the internal temperature raises above the range, the compressor
 turns off. Then, the thermostat detects an internal temperature below my set range, the compressor turns on again to return to the defined range.
 
-With all that said, we are in a new era, where even refrigerators can be computers. We are able to control the temperature using our own phones. And that is only possible due to the fact that these devices, are now using micro-computers (a componcapable of carrying out a set of logical instructions.
+__With all that said__, we are in a new era, where even refrigerators can be computers. We are able to control the temperature using our own phones. And that is only possible due to the fact that these devices, are now using micro-computers (a componcapable of carrying out a set of logical instructions.
 
 
 
