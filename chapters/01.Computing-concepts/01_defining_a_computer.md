@@ -1,6 +1,5 @@
 # What is a computer?
-When people hear the word _"computer"_, most think of a laptop, a smartphone or a personal computer (PC).
-But in reality, any electronic device capable of carrying out a set of logical instructions is a computer.
+When people hear the word _"computer"_, most think of a laptop, a smartphone or a personal computer (PC). But in reality, any electronic device __capable of carrying out a set of logical instructions__ is a computer.
 With that in mind, we can list many types of computers around us: video-game consoles, smart-watches, smart televisions,
 smart air conditioners... 
 
