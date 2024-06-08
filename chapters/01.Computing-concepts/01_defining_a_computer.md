@@ -3,7 +3,7 @@ When people hear the word _"computer"_, most think of a laptop, a smartphone or 
 smart air conditioners... 
 
 ## Many devices are turning into computers
-Many devices are turning into computers these days. Even a refrigerator can function as a computer now. However, it's important to note that the refrigerator still operates as it did before; the difference lies in the addition of microprocessors/microcontrolers (components that execute logical instructions).
+Many devices are turning into computers these days. Even a refrigerator can function as a computer now. However, it's important to note that the refrigerator still operates as it did before; the difference lies in the addition of [microcontrollers](https://en.wikipedia.org/wiki/Microcontroller) (component that execute logical instructions) in them.
 
 With microprocessors integrated into our refrigerators, we gain more functionalities. For example, we can regulate the temperature using a phone, set specific times for cooling and warming, and even view the contents through a display.
 
